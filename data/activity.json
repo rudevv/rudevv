@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T08:31:57.964Z",
+  "updated_at": "2026-09-24T08:33:04.018Z",
   "scope": "Public GitHub only. Original public repositories exclude the profile repository. Pull requests are authored by rudevv. Weekly bins are UTC.",
   "sources": [
     "https://api.github.com/users/rudevv/repos",
@@ -9,55 +9,55 @@
   "public_pull_requests": 0,
   "merged_public_pull_requests": 0,
   "merged_external_pull_requests": 0,
-  "window_start": "2026-07-02T00:00:00.000Z",
-  "window_end_exclusive": "2026-09-24T00:00:00.000Z",
+  "window_start": "2026-07-03T00:00:00.000Z",
+  "window_end_exclusive": "2026-09-25T00:00:00.000Z",
   "weekly_opened_pull_requests": [
     {
-      "from": "2026-07-02",
+      "from": "2026-07-03",
       "opened": 0
     },
     {
-      "from": "2026-07-09",
+      "from": "2026-07-10",
       "opened": 0
     },
     {
-      "from": "2026-07-16",
+      "from": "2026-07-17",
       "opened": 0
     },
     {
-      "from": "2026-07-23",
+      "from": "2026-07-24",
       "opened": 0
     },
     {
-      "from": "2026-07-30",
+      "from": "2026-07-31",
       "opened": 0
     },
     {
-      "from": "2026-08-06",
+      "from": "2026-08-07",
       "opened": 0
     },
     {
-      "from": "2026-08-13",
+      "from": "2026-08-14",
       "opened": 0
     },
     {
-      "from": "2026-08-20",
+      "from": "2026-08-21",
       "opened": 0
     },
     {
-      "from": "2026-08-27",
+      "from": "2026-08-28",
       "opened": 0
     },
     {
-      "from": "2026-09-03",
+      "from": "2026-09-04",
       "opened": 0
     },
     {
-      "from": "2026-09-10",
+      "from": "2026-09-11",
       "opened": 0
     },
     {
-      "from": "2026-09-17",
+      "from": "2026-09-18",
       "opened": 0
     }
   ]
